@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - :classical_building: 3rd year CS Student, at University Of Okara
 - 👨🏽‍🌱 I’m currently Exploring Data Science and Machine Learning
-- :heavy_check_mark: AI Engineer Enthusiastic⭐ 
+- :heavy_check_mark: AI Engineer Enthusiastic
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
