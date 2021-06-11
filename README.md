@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  ### Hi there, I'm Ahsan👋 Creater, ML And Data Science Learner and Researcher👨‍💻!
+-  ### Hi there, I'm Ahsan👋 Researcher👨‍💻 Creater,Exploring Machine Learning , DevOps , and  & Web Dev.!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
