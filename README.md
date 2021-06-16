@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - :classical_building: 3rd year CS Student, at University Of Okara
-- 👨🏽‍🌱 Exploring Machine Learning, DevOps.
 - :heavy_check_mark: AI Engineer Enthusiastic
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
