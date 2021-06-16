@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  ### Hi there,
--  #### I'm Ahsan👋 Researcher👨‍💻 Exploring Machine Learning and DevOps.
+-  ## Hi there,
+-  ### I'm Ahsan👋 Researcher👨‍💻 Exploring Machine Learning and DevOps.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
