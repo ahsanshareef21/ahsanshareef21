@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  ## Hi there, I'm Ahsan👋
--  ### I'm Learner 👨‍💻 , Currently I'm Exploring Machine Learning and DevOps.
+-  ### I'm Learner 👨‍💻 , Currently I'm Exploring HTML, CSS & JavaScript.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
