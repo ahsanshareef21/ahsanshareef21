@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  ## Hi there, I'm Ahsan👋
--  ### I'm Learner 👨‍💻 , Currently I'm Exploring HTML, CSS & JavaScript.
+-  ### Currently I'm Exploring HTML, CSS & JavaScript.
 
 <!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
 - :classical_building: Final year BS(Hons) CS Student, at University Of Okara
 <!-- - :heavy_check_mark: AI Engineer Enthusiastic -->
 - 👯 I’m looking to collaborate with other content creators and developers
-<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
+<!-- - 🥅 2022 Goals: Contribute more to Open Source projects -->
 
 
   
