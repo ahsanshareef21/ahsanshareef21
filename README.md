@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -  ## Hi there, I'm Ahsan👋
--  ### Currently I'm Exploring HTML, CSS & JavaScript.
+-  ### Currently I'm Exploring React.
 
 <!--   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
