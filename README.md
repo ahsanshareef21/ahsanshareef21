@@ -1,20 +1,20 @@
 # Hi there, I'm Ahsan 👋
 
-### I'm a Developer, Teacher, and Researcher!
+### I'm a Developer, and Researcher!
 - 🔭 I’m currently Learning MERN Stack And BlockChain.
 - 🌱 I’m currently learning Competitive-coding, large-scale distributed systems design, and backend engineering
 - 👯 I’m looking to collaborate with other content creators and developers.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
+   <!--  <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
 </td>
-<!--     <td align='center' width="190">
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
@@ -23,13 +23,24 @@
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td> -->
-
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    
+    <tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+</td>
   <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
 </tr>
-<!-- <tr>
-    <td align='center'>
+<tr>
+   <!--  <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
     </td>
     <td align='center'>
@@ -45,15 +56,16 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
-</tr> 
 -->
+</tr> 
+
 <tr>
-    <td align='center'>
+   <!--  <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
+    </td> -->
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td> -->
