@@ -138,10 +138,11 @@
 <a href="mailto:ahsanshareef21@gmail.com"><img src="https://img.shields.io/badge/-ahsanshareef21@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ahsanshareef21"><img src="https://img.shields.io/badge/-@ahsanshareef21-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/ahsanshareef21"><img src="https://img.shields.io/badge/-@ahsanshareef21-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/saadhaxxan)
+[![Ahsan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/ahsanshareef21)
 
 <!-- ## Some Community Projects
 
@@ -173,4 +174,4 @@
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanshareef21&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-</p>
+
