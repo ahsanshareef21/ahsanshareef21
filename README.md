@@ -14,7 +14,7 @@
 
 <table width="100">
  
- <h2> Update Soon<h2>
+ - <h5> Update Soon</h5>
 <!-- <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
