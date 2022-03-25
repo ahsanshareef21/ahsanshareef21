@@ -40,12 +40,13 @@
     </td>
     <td align='center'>
         <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="120">
-    </td>-->
+    </td>
 
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
 </tr> 
+-->
 <tr>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
