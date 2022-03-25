@@ -10,8 +10,9 @@
 <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
+    <!-- 
 <tr>
-   <!--  <td align='center' width="190">
+   <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
 </td>
     <td align='center' width="190">
@@ -22,8 +23,11 @@
     </td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td> -->
+    </td>
+</tr>
+-->
 <tr>
+
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="60" width="60">
     </td>
@@ -34,13 +38,22 @@
     <tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-</td>
-  <td align='center' width="190">
+   
+   </td>
+   
+       <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+       </td>
+         
+ <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
+       
 </tr>
-<tr>
-   <!--  <td align='center'>
+ 
+   <!--
+       <tr>
+    <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" width="60" height="60">
     </td>
     <td align='center'>
@@ -56,8 +69,8 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
--->
-</tr> 
+
+</tr> -->
 
 <tr>
    <!--  <td align='center'>
@@ -68,14 +81,16 @@
     </td> -->
 <!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td> -->
-    <td align='center'>
+    </td> 
+   
+ <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-<!--     <td align='center'>
+    <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td> -->
-</tr>
+    </td> 
+</tr>-->
+
 <!-- <tr>
     <td align='center'>
         <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png">
