@@ -1,8 +1,7 @@
 # Hi there, I'm Ahsan 👋
 
 ### I'm a Developer, and Researcher!
-- 🔭 I’m currently Learning MERN Stack And BlockChain.
-- 🌱 I’m currently learning Competitive-coding, large-scale distributed systems design, and backend engineering
+- 🔭 I’m currently Learning MERN Stack
 - 👯 I’m looking to collaborate with other content creators and developers.
 
 - 🥅 2022 Goals: Contribute more to Open Source projects.
