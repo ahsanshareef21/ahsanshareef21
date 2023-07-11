@@ -1,10 +1,10 @@
 # Hi there, I'm Ahsan 👋
 
-### I'm a Developer, and passionate to Solve Programming Related Problems!
-- 🔭 I’m currently Learning MERN Stack
+### I'm a Frond-End Developer, and passionate about solving programming-related problems!
+🔭: I'm currently learning MERN Stack
 - 👯 I’m looking to collaborate with other content creators and developers.
 
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahsanshareef21" alt="Muhammad Ahsan" /> </p>
