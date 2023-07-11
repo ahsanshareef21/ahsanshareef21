@@ -141,7 +141,7 @@
 
 ## Contribution Graph
 
-[[Ahsan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/ahsanshareef21)
+[![Ahsan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/ahsanshareef21)
 
 <!-- ## Some Community Projects
 
