@@ -1,7 +1,7 @@
 # Hi there, I'm Ahsan 👋
 
 ### I'm a Frond-End Developer and passionate about solving programming-related problems!
-🔭: I'm currently Exploring MERN Stack
+🔭 I'm currently Exploring MERN Stack
 - 👯 I’m looking to collaborate with other content creators and developers.
 
 - 🥅 2023 Goals: Contribute more to Open Source projects.
