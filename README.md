@@ -9,12 +9,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahsanshareef21" alt="Muhammad Ahsan" /> </p>
 
-<h2><i>💻 Tech Stack</i></h2>
+<!-- <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
  
  - <h5> Update Soon</h5>
-<!-- <tr>
+<tr>
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
@@ -139,11 +139,11 @@
 <a href="https://facebook.com/ahsanshareef21"><img src="https://img.shields.io/badge/-@ahsanshareef21-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-## Contribution Graph
+<!-- ## Contribution Graph
 
 [![Ahsan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahsanshareef21&theme=xcode)](https://github.com/ahsanshareef21)
 
-<!-- ## Some Community Projects
+## Some Community Projects
 
 |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
 |-------------|-------------------|---|---|
