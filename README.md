@@ -3,9 +3,10 @@ Hi there 👋 This is Muhammad Ahsan
 - 🔭 Working as Front End Developer.
 - 🌱 I’m currently learning about MERN Stack.
 - 👯 I’m looking to collaborate on MERN Stack Projects.
+  
 
 <br>
-
+[<img align="center" alt="profile views" src="https://img.shields.io/badge/profile_views-123-blue.svg?&style=for-the-badge&logo=eye&logoColor=white" />](https://example.com/profile-views)
 ### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ahsanshareef21)
@@ -18,12 +19,14 @@ Hi there 👋 This is Muhammad Ahsan
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/ahsanshareef21)
 
+
+
+
+
+
 <br>
-
-[<img align="left" alt="profile views" src="https://img.shields.io/badge/profile_views-123-blue.svg?&style=for-the-badge&logo=eye&logoColor=white" />](https://example.com/profile-views)
-
-
-
+<br>
+<br>
 Hi there 👋 This is Muhammad Ahsan
 
 - 🔭 Working as Front End Developer.
