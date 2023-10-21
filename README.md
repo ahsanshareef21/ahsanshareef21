@@ -6,9 +6,8 @@ Hi there 👋 This is Muhammad Ahsan
   
 
 <br>
-[<img align="center" alt="profile views" src="https://img.shields.io/badge/profile_views-123-blue.svg?&style=for-the-badge&logo=eye&logoColor=white" />](https://example.com/profile-views)
 
-
+[<img align="left" alt="profile views" src="https://img.shields.io/badge/profile_views-123-blue.svg?&style=for-the-badge&logo=eye&logoColor=white" />](https://github.com/ahsanshareef21)
 
 <br>
 
