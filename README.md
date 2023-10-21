@@ -18,7 +18,10 @@ Hi there 👋 This is Muhammad Ahsan
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="left" alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="React JS" src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img align="left" margin-left="5px" margin-top="20px" alt="React JS" src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white"/>
+
+ <br>
  
 ### Connect with me
 
