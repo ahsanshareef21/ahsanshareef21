@@ -23,9 +23,6 @@ Hi there 👋 This is Muhammad Ahsan
 
 
 <br/>  
-<br/> 
-
-<br>
 
 ### Connect with me
 
