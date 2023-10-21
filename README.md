@@ -4,6 +4,8 @@ Hi there 👋 This is Muhammad Ahsan
 - 🌱 I’m currently learning about MERN Stack.
 - 👯 I’m looking to collaborate on MERN Stack Projects.
 
+  <br>
+
 [<img align="center" alt="profile views" src="https://img.shields.io/badge/profile_views-9898-blue.svg?&style=for-the-badge&logo=eye&logoColor=white" />](https://github.com/ahsanshareef21)
 
 
@@ -21,7 +23,7 @@ Hi there 👋 This is Muhammad Ahsan
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="React JS" src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=white"/>
 
-<br/>  
+<br>  
 
 ### Connect with me
 
